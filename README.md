@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @cyMichael
-- 👀 I’m interested in Applied Econometrics, Causal Inference and ML/DL
-- 🌱 I’m currently learning nonparametric estimation
-- 💞️ I’m looking to collaborate on econometrics and DL related projects
-- 📫 How to reach me (email): yicui@unc.edu
+- 👀 I’m interested in Forecast, Causal Inference, and ML/DL
+- 💞️ I’m looking to collaborate on econometrics and ML/DL related projects
+- 📫 How to reach me (email): cy15307130001@gmail.com
 
 <!---
 cyMichael/cyMichael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
