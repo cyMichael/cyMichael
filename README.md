@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cyMichael
-- 👀 I’m interested in Forecast, Causal Inference, and ML/DL
+- 👀 I’m interested in Forecast, Causal Inference, and ML/DL (Recommendation System, Gen AI, LLM Agent)
 - 💞️ I’m looking to collaborate on econometrics and ML/DL related projects
 - 📫 How to reach me (email): cy15307130001@gmail.com
 
